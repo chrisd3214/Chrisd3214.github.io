@@ -1,6 +1,7 @@
-# Welcome to GitHub Desktop!
+README.md
+# My Presonal Webpage 
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+## Purpose of Webpage
+The purpose of this webpage is to create a brief summary of the goals I have planned for my Computing Applications Major. I'll also include what I hope to learn throughout CMPA 3301. Lastly, I'll inlcude a bulleted list of the hobbies enjoy doing. 
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Christian Diaz hghb
+https://github.com/chrisd3214/Chrisd3214.github.io
