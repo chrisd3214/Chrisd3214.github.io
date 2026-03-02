@@ -1,5 +1,5 @@
 retrospective.md 
-This page is a thoughful reflection on the project process using key question from PMUPM Chapter 4.
+This page is a thoughful reflection on the project process using key question from PMUPM Chapter 7.
 1. What went well?
 The creation of the project went well and the coding ran smoothly for the most part. Creating that lists, paragraphs and hyperlinks went smoothly.
 2. What went wrong? 
